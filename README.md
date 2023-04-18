@@ -1,6 +1,7 @@
 ### Hi there am Losh, feel free to say hi👋
-![Welcome to my GitHub](https://tenor.com/view/pull-request-code-pr-github-fulp-gif-21584424)
+![Welcome to my GitHub](https://media.tenor.com/w0P0FSoo3z0AAAAC/pull-request-code.gif)
 <!--
+https://media.tenor.com/w0P0FSoo3z0AAAAC/pull-request-code.gif
 **Lentumunai-Mark/Lentumunai-Mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
