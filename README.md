@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there am Losh, feel free to say hi👋
+![Welcome to my GitHub](https://tenor.com/view/pull-request-code-pr-github-fulp-gif-21584424)
 <!--
 **Lentumunai-Mark/Lentumunai-Mark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
